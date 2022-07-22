@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there my name is Eduardo Nicolalde and I'm a Telamatics Engineer and Software developer 👋
 
 <!--
-**eduanico/eduanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AaronNicolalde/AaronNicolalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronNicolalde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
