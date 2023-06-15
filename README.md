@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/eduardo-nicolalde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<a href="https://wa.me/593983426922?text=Hi%20Eduardo">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=eduanico&style=flat-square&color=blue" alt=""/>
 
