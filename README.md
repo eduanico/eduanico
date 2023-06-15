@@ -9,11 +9,13 @@
   </a>
 
 </div>
+
+
 <img src="https://komarev.com/ghpvc/?username=eduanico&style=flat-square&color=blue" alt=""/>
 
   #### Hi there!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 </div>
+
 
 
 #### 👨‍💻  About me:
@@ -37,4 +39,10 @@ My name is Eduardo Nicolalde, I'm a Telematics Engineer and Software developer f
   #### :desktop_computer:	 My Top Languages:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduanico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  #### 🥇 My Total Contributions 
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=eduanico&theme=highcontrast)](https://git.io/streak-stats)
+  
+  
 </div>
