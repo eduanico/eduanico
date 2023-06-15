@@ -24,7 +24,7 @@ My name is Eduardo Nicolalde, I'm a Telematics Engineer and Software developer f
 - 📚 I’m learning HTMX, react and for aws solutions architect cert
 - ☕ I’m looking to collaborate on htmx projects with springboot
 - 💬 Ask me about anything
-- 📫 How to reach me: enicolalde@eclipsoft.com 
+- 📫 How to reach me: aaronnicolalde1@gmail.com
 
 <p align="center">
   
