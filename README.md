@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/eduardo-nicolalde/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://wa.me/593983426922?text=Hi%20Eduardo!%20Nice%20to%20meet%you.">
+<a href="https://wa.me/593983426922?text=Hi%20Eduardo!%20Nice%20to%20meet%20you.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 
