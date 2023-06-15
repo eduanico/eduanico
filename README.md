@@ -20,7 +20,7 @@
 
 #### 👨‍💻  About me:
 My name is Eduardo Nicolalde, I'm a Telematics Engineer and Software developer from Ecuador 🇪🇨.
-- 💼 I’m currently working for Eclipsoft S.A.
+- 💼 I’m currently working at Eclipsoft S.A.
 - 📚 I’m learning HTMX, react and for aws solutions architect cert
 - ☕ I’m looking to collaborate on htmx projects with springboot
 - 💬 Ask me about anything
