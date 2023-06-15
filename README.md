@@ -38,7 +38,7 @@ My name is Eduardo Nicolalde, I'm a Telematics Engineer and Software developer f
 
   #### :desktop_computer:	 My Top Languages:
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduanico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduanico&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   #### 🥇 My Total Contributions 
 
