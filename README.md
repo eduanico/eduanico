@@ -30,7 +30,7 @@ My name is Eduardo Nicolalde, I'm a Telematics Engineer and Software developer f
   
   #### :hammer_and_wrench: Languages and Tools :
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,spring,mongo,mysql,python,vue" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,spring,mongo,mysql,python,react" />
   </a>
 </p>
 
